@@ -1,6 +1,14 @@
 # How to serve a pre-built keras model on your local server
 
-This project showcases how one can import a pre-trained keras model into Tensorflow.js. In this example I will be using a Dog Vs Cat classifier. I have split this project into three parts:
+This project showcases how one can import a pre-trained keras model into Tensorflow.js. In this example I will be using a Dog Vs Cat classifier. The webpage will use your webcam to snap an image and predict whether the image has a dog or cat present.
+
+![image]
+(https://user-images.githubusercontent.com/28598769/83793337-05d20800-a6ba-11ea-8371-89dbb097418d.png)
+
+![image]
+(https://user-images.githubusercontent.com/28598769/83793452-2dc16b80-a6ba-11ea-8383-0147f210c7d6.png)
+
+ I have split this project into three parts:
 
 
 - Building the model.
