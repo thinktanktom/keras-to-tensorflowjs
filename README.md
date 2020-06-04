@@ -6,7 +6,7 @@ This project showcases how one can import a pre-trained keras model into Tensorf
 
 ![alt text](https://user-images.githubusercontent.com/28598769/83793452-2dc16b80-a6ba-11ea-8383-0147f210c7d6.png)
 
- I have split this project into three parts:
+ I have split this project into four parts:
 
 
 - Building the model.
@@ -46,7 +46,7 @@ Solution: Make sure you have Anaconda installed. If you have a virtual environme
 
 ## Creating the Web Page
 
-The web page can be created in different ways. I used HTML and Javascript which is considered the norm.
+The web page can be created in different ways. I used HTML and Javascript.
 
 ## Hosting it on a local server
 
