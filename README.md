@@ -46,7 +46,7 @@ Solution: Make sure you have Anaconda installed. If you have a virtual environme
 
 ## Creating the Web Page
 
-The web page can be created in different ways. I used HTML and Javascript.
+The web page can be created in different ways. I used the original from [here](https://github.com/dkreider/tensorflowjs-cat-vs-dog) and modified it to accept webcam images.
 
 ## Hosting it on a local server
 
@@ -57,3 +57,7 @@ To host it on a local server simply access the project directory through the ter
 By default it should utilise localhost:8000 but you can change the port number by adding a number to the command.
 
 `python3 -m http.server #portnumber`
+
+## License
+
+This project is licensed under the MIT License -see the [LICENSE.md](https://github.com/dkreider/tensorflowjs-cat-vs-dog/blob/master/LICENSE.md) for details.
