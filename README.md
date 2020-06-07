@@ -58,6 +58,10 @@ By default it should utilise localhost:8000 but you can change the port number b
 
 `python3 -m http.server #portnumber`
 
+## Docker
+
+If you are comfortable with docker, I have provided a Dockerfile that'll enable one to spin up a lightweight container with this project enclosed. 
+
 ## License
 
 This project is licensed under the MIT License -see the [LICENSE.md](https://github.com/dkreider/tensorflowjs-cat-vs-dog/blob/master/LICENSE.md) for details.
